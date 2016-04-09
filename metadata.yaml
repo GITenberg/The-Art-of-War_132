@@ -1,0 +1,153 @@
+_repo: The-Art-of-War_132
+_version: 0.0.1
+alternative_title: Sunzi bing fa. English
+contributor:
+  translator:
+    agent_name: Giles, Lionel
+    birthdate: 1875
+    deathdate: 1958
+    gutenberg_agent_id: '5101'
+    url: http://www.gutenberg.org/2009/agents/5101
+    wikipedia: http://en.wikipedia.org/wiki/Lionel_Giles
+creator:
+  author:
+    agent_name: Sunzi, active 6th century B.C.
+    aliases:
+    - 孫子
+    - 孙子
+    - Sun Tzu
+    gutenberg_agent_id: '4349'
+    url: http://www.gutenberg.org/2009/agents/4349
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Sun_Tzu
+    - http://zh.wikipedia.org/wiki/%E5%AD%99%E6%AD%A6
+description: "The Art of War (Chinese: 孫子兵法; pinyin: Sūnzǐ bīngfǎ; literally: \"Master\
+  \ Sun's Rules of Warfare\") is an ancient Chinese military treatise dating from\
+  \ the 5th century BC. Attributed to the ancient Chinese military strategist Sun\
+  \ Tzu – \"Master Sun\" (Sunzi or Sun-tzu 孫子), the text is composed of 13 chapters,\
+  \ each of which is devoted to one aspect of warfare. It is commonly thought of as\
+  \ a definitive work on military strategy and tactics. It was placed at the head\
+  \ of China's Seven Military Classics upon the collection's creation in 1080 by Emperor\
+  \ Shenzong of Song, and has long been the most influential strategy text in East\
+  \ Asia. It has had an influence on Eastern and Western military thinking, business\
+  \ tactics, legal strategy and beyond.\nThe book was first translated into the French\
+  \ language in 1772 by French Jesuit Jean Joseph Marie Amiot and a partial translation\
+  \ into English was attempted by British officer Everard Ferguson Calthrop in 1905.\
+  \ The first annotated English language translation was completed and published by\
+  \ Lionel Giles in 1910. Leaders as diverse as Mao Zedong, General Vo Nguyen Giap,\
+  \ General Douglas MacArthur and leaders of Imperial Japan have drawn inspiration\
+  \ from the work.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1994-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '132'
+  wikidata: Q8251
+language: en
+language_note: Translated from the Chinese by Lionel Giles, M.A. (1910)
+publication_note: '1910'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War -- Early works to 1800'
+- !lcc 'U'
+- !lcsh 'Military art and science -- Early works to 1800'
+- GITenberg
+title: The Art of War
+url: http://www.gutenberg.org/ebooks/132
+wikipedia:
+- https://fi.wikipedia.org/wiki/Sodank%C3%A4ynnin_taito
+- https://pms.wikipedia.org/wiki/L%27Art_%C3%ABd_la_Gu%C3%A8ra
+- https://fa.wikipedia.org/wiki/%D9%87%D9%86%D8%B1_%D8%B1%D8%B2%D9%85
+- https://vi.wikipedia.org/wiki/Binh_ph%C3%A1p_T%C3%B4n_T%E1%BB%AD
+- https://ilo.wikipedia.org/wiki/Ti_Arte_iti_Gubat
+- https://gl.wikipedia.org/wiki/A_arte_da_guerra
+- https://bxr.wikipedia.org/wiki/%D0%94%D0%B0%D0%B9%D0%BD%D0%B0%D0%B9_%D1%83%D1%80%D0%B0%D0%BB%D0%B8%D0%B3
+- https://sh.wikipedia.org/wiki/Umjetnost_ratovanja_(knjiga)
+- https://hu.wikipedia.org/wiki/A_h%C3%A1bor%C3%BA_m%C5%B1v%C3%A9szete
+- https://zh.wikiquote.org/wiki/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95
+- https://pt.wikisource.org/wiki/Em_Tradu%C3%A7%C3%A3o:A_Arte_da_Guerra
+- https://nl.wikipedia.org/wiki/De_kunst_van_het_oorlogvoeren
+- https://sl.wikipedia.org/wiki/Umetnost_vojne
+- https://sw.wikipedia.org/wiki/Ufundi_wa_vita
+- https://pt.wikiquote.org/wiki/Arte_da_Guerra,_A
+- https://lv.wikipedia.org/wiki/Kara_m%C4%81ksla
+- https://sr.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B5%D1%9B%D0%B5_%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%D1%9A%D0%B0
+- https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%BF%D5%A5%D6%80%D5%A1%D5%A6%D5%B4%D5%AB_%D5%A1%D6%80%D5%BE%D5%A5%D5%BD%D5%BF%D5%A8
+- https://no.wikipedia.org/wiki/Kunsten_%C3%A5_krige
+- https://ce.wikipedia.org/wiki/%D0%A2%D3%80%D0%B5%D0%BC%D0%B0%D0%BD_%D0%B3%D0%BE%D0%B2%D0%B7%D0%B0%D0%BB
+- https://es.wikiquote.org/wiki/El_arte_de_la_guerra
+- https://zh-classical.wikipedia.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95
+- https://en.wikisource.org/wiki/The_Art_of_War_(Sun)
+- https://uk.wikipedia.org/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%82%D0%B2%D0%BE_%D0%B2%D1%96%D0%B9%D0%BD%D0%B8
+- https://ja.wikiquote.org/wiki/%E5%AD%AB%E5%AD%90
+- https://ckb.wikipedia.org/wiki/%DA%BE%D9%88%D9%86%DB%95%D8%B1%DB%8C_%D8%B4%DB%95%DA%95
+- https://pt.wikipedia.org/wiki/A_Arte_da_Guerra
+- https://he.wikisource.org/wiki/%D7%90%D7%9E%D7%A0%D7%95%D7%AA_%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94
+- https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A7%8D%E0%A6%AF_%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9F_%E0%A6%85%E0%A6%AB_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0
+- https://ro.wikipedia.org/wiki/Arta_r%C4%83zboiului
+- https://oc.wikipedia.org/wiki/L%27Art_de_la_Gu%C3%A8rra
+- https://fr.wikipedia.org/wiki/L%27Art_de_la_guerre
+- https://simple.wikipedia.org/wiki/The_Art_of_War
+- https://be-tarask.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B0%D1%86%D1%82%D0%B2%D0%B0_%D0%B2%D0%B0%D0%B9%D0%BD%D1%8B
+- https://sv.wikipedia.org/wiki/Krigskonsten
+- https://gl.wikisource.org/wiki/A_arte_da_guerra
+- https://yi.wikipedia.org/wiki/%D7%93%D7%99_%D7%A7%D7%95%D7%A0%D7%A1%D7%98_%D7%A4%D7%95%D7%9F_%D7%9E%D7%9C%D7%97%D7%9E%D7%94
+- https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%AE%E1%83%94%E1%83%9A%E1%83%9D%E1%83%95%E1%83%9C%E1%83%94%E1%83%91%E1%83%90
+- https://es.wikisource.org/wiki/El_Arte_de_la_Guerra
+- https://id.wikipedia.org/wiki/Sun_Zi_Bingfa
+- https://eu.wikipedia.org/wiki/Gerraren_artea
+- https://la.wikipedia.org/wiki/Ars_belli_(Suncius)
+- https://ca.wikipedia.org/wiki/L%27Art_de_la_Guerra
+- https://nl.wikisource.org/wiki/Sun_Zi_-_Militaire_strategie
+- https://zh-min-nan.wikipedia.org/wiki/Sun-ch%C3%BA_Peng-hoat
+- https://als.wikipedia.org/wiki/Die_Kunst_des_Krieges_(Sunzi)
+- https://kk.wikipedia.org/wiki/%D0%A1%D0%BE%D2%93%D1%8B%D1%81_%D3%A9%D0%BD%D0%B5%D1%80%D1%96
+- https://fr.wikisource.org/wiki/L%E2%80%99Art_de_la_guerre
+- https://ja.wikipedia.org/wiki/%E5%AD%AB%E5%AD%90_(%E6%9B%B8%E7%89%A9)
+- https://nn.wikipedia.org/wiki/Kunsten_%C3%A5_krige
+- https://war.wikipedia.org/wiki/An_Arte_han_Gera
+- https://es.wikipedia.org/wiki/El_arte_de_la_guerra
+- https://sk.wikipedia.org/wiki/Umenie_vojny
+- https://tr.wikiquote.org/wiki/Sava%C5%9F_Sanat%C4%B1
+- https://rue.wikipedia.org/wiki/%D0%A3%D0%BC%D1%96%D0%BD%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B
+- https://zh.wikipedia.org/wiki/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95
+- https://bs.wikipedia.org/wiki/Umjetnost_ratovanja_(knjiga)
+- https://da.wikipedia.org/wiki/Krigskunsten
+- https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%8B%E0%B8%B8%E0%B8%99%E0%B8%88%E0%B8%B7%E0%B9%88%E0%B8%AD
+- https://cs.wikipedia.org/wiki/Um%C4%9Bn%C3%AD_v%C3%A1lky
+- https://de.wikipedia.org/wiki/Die_Kunst_des_Krieges_(Sunzi)
+- https://ur.wikipedia.org/wiki/%D9%81%D9%86_%D8%AD%D8%B1%D8%A8_(%DA%A9%D8%AA%D8%A7%D8%A8)
+- https://it.wikipedia.org/wiki/L%27arte_della_guerra
+- https://hr.wikipedia.org/wiki/Umije%C4%87e_ratovanja
+- https://is.wikipedia.org/wiki/Herna%C3%B0arlistin
+- https://eo.wikipedia.org/wiki/La_Militarto
+- https://pa.wikipedia.org/wiki/%E0%A8%AF%E0%A9%81%E0%A9%B1%E0%A8%A7_%E0%A8%A6%E0%A9%80_%E0%A8%95%E0%A8%B2%E0%A8%BE
+- https://ms.wikipedia.org/wiki/Seni_Peperangan
+- https://an.wikipedia.org/wiki/L%27arte_d%27a_guerra
+- https://pnb.wikipedia.org/wiki/%D9%84%DA%91%D8%A7%D8%A6%DB%8C_%D8%AF%D8%A7_%D9%88%D9%84
+- https://el.wikipedia.org/wiki/%CE%97_%CE%A4%CE%AD%CF%87%CE%BD%CE%B7_%CF%84%CE%BF%CF%85_%CE%A0%CE%BF%CE%BB%CE%AD%CE%BC%CE%BF%CF%85
+- https://az.wikipedia.org/wiki/M%C3%BCharib%C9%99_inc%C9%99s%C9%99n%C9%99ti
+- https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%82%E0%A4%82%E0%A4%9C%E0%A5%80_%E0%A4%AC%E0%A5%80%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%AB%E0%A4%BC%E0%A4%BE
+- https://ast.wikipedia.org/wiki/L%27arte_de_la_guerra
+- https://en.wikipedia.org/wiki/The_Art_of_War
+- https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95
+- https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B
+- https://ko.wikipedia.org/wiki/%EC%86%90%EC%9E%90%EB%B3%91%EB%B2%95
+- https://et.wikipedia.org/wiki/S%C3%B5ja_seadused
+- https://ca.wikiquote.org/wiki/L%27Art_de_la_Guerra
+- https://pl.wikipedia.org/wiki/Sztuka_wojenna_Sun_Zi
+- https://zh-yue.wikipedia.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95
+- https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B0%D1%86%D1%82%D0%B2%D0%B0_%D0%B2%D0%B0%D0%B9%D0%BD%D1%8B
+- https://sq.wikipedia.org/wiki/Arti_i_Luft%C3%ABs
+- https://bar.wikipedia.org/wiki/De_Kunst_vom_Kriag
+- https://mk.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B0_%D0%BD%D0%B0_%D0%B2%D0%BE%D1%98%D1%83%D0%B2%D0%B0%D1%9A%D0%B5%D1%82%D0%BE
+- https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8B%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%88_(%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D)
+- https://ar.wikipedia.org/wiki/%D9%81%D9%86_%D8%A7%D9%84%D8%AD%D8%B1%D8%A8
+- https://th.wikisource.org/wiki/%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8B%E0%B8%B8%E0%B8%99%E0%B8%A7%E0%B8%B9
+- https://ml.wikipedia.org/wiki/%E0%B4%A6%E0%B4%BF_%E0%B4%86%E0%B5%BC%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D_%E0%B4%93%E0%B4%AB%E0%B5%8D_%E0%B4%B5%E0%B4%BE%E0%B5%BC
+- https://cy.wikipedia.org/wiki/Celfyddyd_Rhyfel
+- https://bg.wikipedia.org/wiki/%D0%98%D0%B7%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%82%D0%B0
+- https://br.wikipedia.org/wiki/Arz_ar_brezel
+- https://tr.wikipedia.org/wiki/Sava%C5%9F_Sanat%C4%B1
+- https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%A0%D7%95%D7%AA_%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94
