@@ -1,5 +1,5 @@
 _repo: The-Art-of-War_132
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Sunzi bing fa. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '5101'
     url: http://www.gutenberg.org/2009/agents/5101
     wikipedia: http://en.wikipedia.org/wiki/Lionel_Giles
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sunzi, active 6th century B.C.
@@ -37,6 +40,8 @@ description: "The Art of War (Chinese: 孫子兵法; pinyin: Sūnzǐ bīngfǎ; l
   \ Lionel Giles in 1910. Leaders as diverse as Mao Zedong, General Vo Nguyen Giap,\
   \ General Douglas MacArthur and leaders of Imperial Japan have drawn inspiration\
   \ from the work.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/132#The-Art-of-War
 gutenberg_issued: '1994-05-01'
 gutenberg_type: Text
 identifiers:
